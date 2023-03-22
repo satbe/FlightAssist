@@ -3,7 +3,6 @@
 #define NUM_LEDS 8
 #define LED_PIN 8
 #define BRIGHTNESS 255 
-#include <dmtimer.h>
 #include <math.h>
 #include <SimpleKalmanFilter.h>
 CRGB leds[NUM_LEDS];
